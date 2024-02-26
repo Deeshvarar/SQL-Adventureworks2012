@@ -1,4 +1,5 @@
-Project Overview
+Project Overview:
+
 This project involves querying the AdventureWorks2012 database to extract and analyze data related to persons, sales orders, and sales details. The AdventureWorks2012 database is a sample database that represents a fictitious bicycle manufacturer. The project includes a series of SQL queries executed on the AdventureWorks2012 database to gather specific information.
 
 Queries and Results:
